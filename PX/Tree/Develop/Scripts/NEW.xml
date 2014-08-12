@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<batch>
+	<request cmd="putquestions">
+		<requests>
+		  <question questionid="21c797c2-6644-4201-97f6-fb69eda044d6" entityid="--entityid--" creationdate="2012-12-27T16:07:59.467Z" creationby="7" modifieddate="2012-12-27T16:07:59.467Z" modifiedby="7" flags="6" actualentityid="57704" schema="2" partial="false">
+			<meta><createdBy>256</createdBy>
+	<userCreated>true</userCreated>
+	<totalUsed>1</totalUsed></meta>
+			<answer>
+			  <value></value>
+			</answer>
+			<body />
+			<interaction type="choice" />
+		  </question>
+		  
+			
+		</requests>
+	</request>
+</batch>
+  
+  
