@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<requests>
+  <course courseid="56945" >
+    <data>
+
+<bfw_initialize_user>true</bfw_initialize_user><CourseProductName>[CourseNumber]-[SectionNumber] [Title],Morris1ePrelim How Life Works</CourseProductName><CourseUserName>QA instructor 1</CourseUserName><CourseTimeZone>Eastern Standard Time</CourseTimeZone><ActivatedDate>12/31/9999</ActivatedDate><bfw_course_owner>9333</bfw_course_owner><bfw_dashboard_course>56945</bfw_dashboard_course><bfw_course_description>Morris1ePrelim How Life Works</bfw_course_description><bfw_allow_comment_sharing>true</bfw_allow_comment_sharing><bfw_shared>Unpublished</bfw_shared><meta-bfw_academic_term>5349a155-7a5c-4788-880f-f0b6fcb1ff8f</meta-bfw_academic_term><bfw_search_engine_index>false</bfw_search_engine_index><bfw_facebook_integration>false</bfw_facebook_integration><bfw_allow_site_search>true</bfw_allow_site_search><bfw_allow_activation>true</bfw_allow_activation><bfw_isloadstartoninit>false</bfw_isloadstartoninit><bfw_social_commenting_integration>false</bfw_social_commenting_integration><meta-bfw_is_sandbox_course>false</meta-bfw_is_sandbox_course><bfw_dashboard_settings>
+  <bfw_dashboard_course_home_page />
+  <instructor_dashboard>False</instructor_dashboard>
+  <program_dashboard>False</program_dashboard>
+  <bfw_program_dashboard_course_home_page />
+</bfw_dashboard_settings>
+
+
+<bfw_program_learningobjectives>
+   <learningobjectives>
+    <objective guid="6b4b2aaf-0ce0-43b5-a134-9611bdc752e3" id="1" parentid="" sequence="a">
+      <description>Sample PM LO</description>
+      <bfw_description>something</bfw_description>
+    </objective>
+   </learningobjectives>
+</bfw_program_learningobjectives>
+<bfw_template_learningobjectives>
+     <learningobjectives>
+    <objective guid="9222c505-86f8-4a7c-9b6c-346e601d66b6" id="1" parentid="" sequence="a">
+      <description>Rhetorical Knowledge</description>
+      <bfw_description>&amp;lt;p&amp;gt;Adopted by the Council of Writing Program Administrators (WPA), April 2000; amended July 2008.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;For further information about the development of the Outcomes Statement, please see&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;http://comppile.org/archives/WPAoutcomes/continue.html&amp;quot; data-mce-href=&amp;quot;http://comppile.org/archives/WPAoutcomes/continue.html&amp;quot;&amp;gt;http://comppile.org/archives/WPAoutcomes/continue.html&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;For further information about the Council of Writing Program Administrators, please see&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;http://www.wpacouncil.org/&amp;quot; data-mce-href=&amp;quot;http://www.wpacouncil.org/&amp;quot;&amp;gt;http://www.wpacouncil.org&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;A version of this statement was published in &amp;lt;em&amp;gt;WPA: Writing Program Administration&amp;lt;/em&amp;gt; 23.1/2 (fall/winter 1999): 59-66&amp;lt;/p&amp;gt;</bfw_description>
+    </objective>
+</learningobjectives>
+</bfw_template_learningobjectives>
+</data>
+  </course>
+</requests>

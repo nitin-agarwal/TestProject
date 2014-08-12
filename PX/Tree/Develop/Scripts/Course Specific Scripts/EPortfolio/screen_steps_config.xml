@@ -1,0 +1,42 @@
+
+<requests>
+ <item entityid="[entityId]" itemid="SCREENSTEPS_CONFIG" >
+  <data>
+      <type>CustomActivity</type>
+      <timetocomplete>PT1M</timetocomplete>
+      <category>1</category>
+      <period inherit="true">0</period>
+      <groupsetid>-1</groupsetid>
+      <weight>100</weight>
+      <gradeentry>1</gradeentry>
+      <inputtable inherit="true">0</inputtable><bfw_properties>
+  <bfw_property name="bfw_config" type="xml">
+    <ScreenSteps>
+      <Actions>
+        <Action Key="PX_EPORTFOLIO_ABOUT_FOLDERS" Url="https://cmg.screenstepslive.com/s/tutorials/m/7292/l/72311-organize">
+          <ScreenStepKey />
+          <DisplayText>See more ^</DisplayText>
+        </Action>
+        <Action Key="PX_EPORTFOLIO_ABOUT_ASSESSMENT" Url="https://cmg.screenstepslive.com/s/tutorials/m/7292/l/72308-add-assessment">
+          <ScreenStepKey />
+          <DisplayText>See more ^</DisplayText>
+        </Action>
+        <Action Key="PX_EPORTFOLIO_ABOUT_UPLOADMATERIALS" Url="https://cmg.screenstepslive.com/s/tutorials/m/7292/l/72309-upload-materials">
+          <ScreenStepKey />
+          <DisplayText>See more ^</DisplayText>
+        </Action>
+        <Action Key="PX_EPORTFOLIO_TOC_INSTRUCTOR" Url="https://cmg.screenstepslive.com/s/e-Portfolio-Instructor">
+          <ScreenStepKey />
+          <DisplayText>Help</DisplayText>
+        </Action>
+        <Action Key="PX_EPORTFOLIO_TOC_STUDENT" Url="https://cmg.screenstepslive.com/s/e-Portfolio-Student">
+          <ScreenStepKey />
+          <DisplayText>Help</DisplayText>
+        </Action>
+      </Actions>
+    </ScreenSteps>
+  </bfw_property>
+</bfw_properties>
+</data>
+ </item>
+</requests>

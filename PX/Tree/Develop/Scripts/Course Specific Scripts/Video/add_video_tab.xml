@@ -1,0 +1,31 @@
+<requests>
+   <item itemid="PX_MENU_ITEM_VIDEO_ASSIGNMENT" entityid="56943">
+    <data>
+      <type>CustomActivity</type>
+      <parent>PX_PRIMARY</parent>
+      <sequence>a</sequence>
+      <title>Video</title>
+      <abbreviation>VIDEO</abbreviation>
+      <timetocomplete>PT1M</timetocomplete>
+      <category>1</category>
+      <period inherit="true">0</period>
+      <groupsetid>-1</groupsetid>
+      <duedate>0001-01-01T00:00:00Z</duedate>
+      <weight>100</weight>
+      <gradeentry>1</gradeentry>
+      <inputtable inherit="true">0</inputtable><bfw_type>MenutItem</bfw_type><bfw_menu_created_by>PX_MENU_ITEM_VIDEO_ASSIGNMENT_TEMPLATE</bfw_menu_created_by><bfw_menu_productcourse_display>false</bfw_menu_productcourse_display><bfw_display_flags>
+  <allow>
+    <role>instructor</role>
+    <coursetype>any</coursetype>
+  </allow>
+  <allow>
+    <role>student</role>
+    <coursetype>any</coursetype>
+  </allow>
+</bfw_display_flags><bfw_menu_callbacks>
+  <method name="VideoAssignment" controller="MediaContent" action="Index" url="" type="" route="">
+    <parameter name="itemid" value="{item-id}" />
+  </method>
+</bfw_menu_callbacks></data>
+  </item>
+</requests>

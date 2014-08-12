@@ -1,0 +1,23 @@
+<requests>
+  <item itemid="TMP_bc8ca94806f5431680631bba5408d3e1" entityid="--entityid--" >
+    <data>
+      <type>Assignment</type>
+      <parent>PX_TEMPLATES</parent>
+      <sequence>m</sequence>
+      <title>Video Assignment</title>
+      <description>[verbiage]</description>
+      <folder>bc8ca94806f5431680631bba5408d3e1</folder>
+      <href>Templates/Data/bc8ca94806f5431680631bba5408d3e1/index.html</href>
+      <timetocomplete>PT1M</timetocomplete>
+      <category>0</category>
+      <period inherit="true">0</period>
+      <groupsetid>-1</groupsetid>
+      <weight>100</weight>
+      <gradeentry>1</gradeentry>
+      <inputtable inherit="true">0</inputtable><bfw_properties>
+  <bfw_property name="bfw_visibility" type="String">&lt;bfw_visibility /&gt;</bfw_property>
+  <bfw_property name="bfw_viewLevel" type="String" />
+  <bfw_property name="bfw_instructor_comments_viewLevel" type="String" />
+</bfw_properties><bfw_template>MediaContentAssignment</bfw_template><bfw_type>MediaContentAssignment</bfw_type><subtype>MediaContentAssignment</subtype><bfw_custom_settings controller="CustomSettings" action="MediaContent">custom settings</bfw_custom_settings></data>
+  </item>
+</requests>

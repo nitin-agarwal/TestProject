@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<requests>
+  <item itemid="TMP_57C988A0073411E2A64509226288709B" entityid="--entityid--">
+    <data>
+      <type>CustomActivity</type>
+      <parent>PX_TEMPLATES</parent>
+      <sequence>n</sequence>
+      <title>Competency Rubric</title>
+      <description>Competcncy Rubric for video assignments </description>
+      <folder>57C988A0073411E2A64509226288709B</folder>
+      <href>Templates/Data/57C988A0073411E2A64509226288709B/index.html</href>
+      <timetocomplete>PT1M</timetocomplete>
+      <category>0</category>
+      <period inherit="true">0</period>
+      <groupsetid>-1</groupsetid>
+      <weight>100</weight>
+      <gradeentry>1</gradeentry>
+      <inputtable inherit="true">0</inputtable>
+      <bfw_properties>
+        <bfw_property name="bfw_visibility" type="String">&lt;bfw_visibility /&gt;</bfw_property>
+      </bfw_properties>
+      <bfw_template>CompetencyRubric</bfw_template>
+      <subtype>CompetencyRubric</subtype>
+      <bfw_type>CompetencyRubric</bfw_type>
+    </data>
+  </item>
+</requests>

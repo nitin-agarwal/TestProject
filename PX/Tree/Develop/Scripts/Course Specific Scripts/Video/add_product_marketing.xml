@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<requests>
+  <item itemid="PX_PRODUCT_MARKETING" entityid="--courseid--" >
+<data>
+      <type>CustomActivity</type>
+      <parent>PX_ROOT</parent>
+      <title>Everyday Writer</title>
+      <abbreviation>ecw</abbreviation>
+      <description>
+      &lt;div class="toolkit_image videoToolkitImage"&gt;&lt;/div&gt;
+    </description>
+      <timetocomplete>PT1M</timetocomplete>
+      <category>1</category>
+      <period inherit="true">0</period>
+      <groupsetid>-1</groupsetid>
+      <weight>100</weight>
+      <gradeentry>1</gradeentry>
+      <inputtable inherit="true">0</inputtable><bfw_type>ProductMarketing</bfw_type><bfw_subtype>Marketing</bfw_subtype><bfw_tocs>
+  <bfw_toc_contents sequence="_ja" parentid="PX_ROOT" />
+</bfw_tocs></data>
+  </item>
+</requests>

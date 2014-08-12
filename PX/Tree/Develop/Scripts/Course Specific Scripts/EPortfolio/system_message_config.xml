@@ -1,0 +1,18 @@
+
+<requests>
+ <item entityid="--entityId--" itemid="System_Message" >
+	<data>
+		  <title>System Update</title>
+		  <description>On Monday, June 10th, 2013, the rebranded eportfolio will be available on qa.</description>
+		  <timetocomplete>PT1M</timetocomplete>
+		  <category>1</category>
+		  <period inherit="true">0</period>
+		  <groupsetid>-1</groupsetid>
+		  <availabledate>2013-06-07T00:00:00Z</availabledate>
+		  <duedate>2013-06-08T00:00:00Z</duedate>
+		  <weight>100</weight>
+		  <gradeentry>1</gradeentry>
+		  <inputtable inherit="true">0</inputtable>
+	</data>
+ </item>
+</requests>

@@ -1,0 +1,92 @@
+<requests>
+  <course courseid="--courseid--">
+    <data>
+      <description>Charlie Video Test for Britez</description>
+      <gradetables>
+        <table id="0" name="A,B,C,D,F" scale="Percent">
+          <bracket grade="A" score="0.9" />
+          <bracket grade="B" score="0.8" />
+          <bracket grade="C" score="0.7" />
+          <bracket grade="D" score="0.6" />
+          <bracket grade="F" score="0" />
+        </table>
+        <table id="1" name="A+,A,A-,...,F" scale="Percent">
+          <bracket grade="A+" score="0.97" />
+          <bracket grade="A" score="0.93" />
+          <bracket grade="A-" score="0.9" />
+          <bracket grade="B+" score="0.87" />
+          <bracket grade="B" score="0.83" />
+          <bracket grade="B-" score="0.8" />
+          <bracket grade="C+" score="0.77" />
+          <bracket grade="C" score="0.73" />
+          <bracket grade="C-" score="0.7" />
+          <bracket grade="D+" score="0.67" />
+          <bracket grade="D" score="0.63" />
+          <bracket grade="D-" score="0.6" />
+          <bracket grade="F" score="0" />
+        </table>
+        <table id="2" name="P/F" scale="Percent">
+          <bracket grade="P" score="0.7" />
+          <bracket grade="F" score="0" />
+        </table>
+      </gradetables>
+      <allowstaticcopy>true</allowstaticcopy>
+      <allowderivativechildcopy>true</allowderivativechildcopy>
+      <allowderivativesiblingcopy>true</allowderivativesiblingcopy>
+      <groupsets>
+        <groupset id="9999" title="Individual Group" prefix="Individual Group" algorithm="Random" />
+      </groupsets><bfw_search>
+  <searchcategory searchable="true" title="Ebook : Chapters, Headings, Topics" metadata="ebook" />
+  <searchcategory searchable="true" title="Miscellaneous Content" metadata="other" />
+  <searchcategory searchable="false" title="Exclude" metadata="exclude" />
+</bfw_search><bfw_properties>
+  <bfw_property name="bfw_infinite_scroll" type="string">false</bfw_property>
+  <bfw_property name="bfw_initialize_user" type="string">true</bfw_property>
+</bfw_properties><bfw_tocs>
+  <my_materials type="bfw_toc">My Materials</my_materials>
+</bfw_tocs><meta-book-isbn>000000000000X</meta-book-isbn><bfw_tab_settings>
+  <view_tab>
+    <show_policies>false</show_policies>
+    <show_assignment_details>true</show_assignment_details>
+    <show_rubrics>true</show_rubrics>
+    <show_learning_objectives>false</show_learning_objectives>
+  </view_tab>
+</bfw_tab_settings><bfw_rubric_types>
+  <rubric_type>CompetencyRubric</rubric_type>
+</bfw_rubric_types><bfw_assessment_style>
+  <rubric_management_style>
+    <show_in_assessment>false</show_in_assessment>
+    <show_preview_on_left>false</show_preview_on_left>
+    <show_edit_on_left>true</show_edit_on_left>
+    <show_view_alignments>true</show_view_alignments>
+    <show_edit_on_right>true</show_edit_on_right>
+    <show_preview_on_right>false</show_preview_on_right>
+    <show_left_column>true</show_left_column>
+    <show_right_column>true</show_right_column>
+    <rubric_alignment_views>
+      <assignment>true</assignment>
+      <rubric>true</rubric>
+    </rubric_alignment_views>
+  </rubric_management_style>
+  <objective_management_style>
+    <show_in_assessment>false</show_in_assessment>
+    <show_left_column>true</show_left_column>
+    <show_right_column>true</show_right_column>
+    <show_edit_on_left>true</show_edit_on_left>
+    <show_edit_on_right>false</show_edit_on_right>
+    <show_view_alignments>true</show_view_alignments>
+    <learningobj_alignment_views>
+      <assignment>true</assignment>
+      <eportfolio />
+      <objective>true</objective>
+    </learningobj_alignment_views>
+  </objective_management_style>
+  <competency_rubric_management_style>
+    <show_in_assessment>true</show_in_assessment>
+  </competency_rubric_management_style>
+  <report_management_style>
+    <show_in_assessment>false</show_in_assessment>
+  </report_management_style>
+</bfw_assessment_style><sourceid>6651</sourceid></data>
+  </course>
+</requests>
