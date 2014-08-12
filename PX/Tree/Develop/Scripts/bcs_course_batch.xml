@@ -333,6 +333,33 @@
         </data>
       </item>
 	  
+	  <item itemid="PX_MENU_ITEM_LEARNING_CURVE_TESTRM-123" entityid="-entityid-">
+        <data>
+          <type>CustomActivity</type>
+          <parent>PX_MENU_BCS</parent>
+          <sequence>d</sequence>
+		  <title2>LearningCurve abc</title2>
+          <title>LearningCurve</title>
+          <abbreviation>LEARNINGCURVE 123 456</abbreviation>
+          <bfw_type>MenuItem</bfw_type>
+          <bfw_menu_created_by />
+          <bfw_menu_productcourse_display>true</bfw_menu_productcourse_display>
+          <bfw_display_flags>
+            <allow>
+              <role>instructor</role>
+              <coursetype>any</coursetype>
+            </allow>
+            <allow>
+              <role>student</role>
+              <coursetype>any</coursetype>
+            </allow>
+          </bfw_display_flags>
+          <bfw_menu_callbacks>
+            <method name="Projects" controller="Home" action="Index" url="" type="" route="" />
+          </bfw_menu_callbacks>
+        </data>
+      </item>
+	  
     </requests>
   </request>
 </batch>
